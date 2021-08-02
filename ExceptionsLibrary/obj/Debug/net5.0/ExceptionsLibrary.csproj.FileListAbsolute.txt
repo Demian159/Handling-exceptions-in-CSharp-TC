@@ -1,0 +1,11 @@
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\bin\Debug\net5.0\ExceptionsLibrary.deps.json
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\bin\Debug\net5.0\ExceptionsLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\bin\Debug\net5.0\ref\ExceptionsLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\bin\Debug\net5.0\ExceptionsLibrary.pdb
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.AssemblyInfoInputs.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.AssemblyInfo.cs
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ref\ExceptionsLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\ExceptionsDemo\ExceptionsLibrary\obj\Debug\net5.0\ExceptionsLibrary.pdb
